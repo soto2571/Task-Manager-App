@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GoMFUSCvKWLwvyJp2Bhxab5YBIhgTLfkOzXl4mD88/s=",
+  "Source": "LockheedAPI",
+  "BasePath": "_content/LockheedAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
